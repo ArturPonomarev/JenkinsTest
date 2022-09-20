@@ -1,0 +1,11 @@
+{
+  "testApiLink": "https://jsonplaceholder.typicode.com/",
+
+  "requestResources": {
+    "allPosts": "posts",
+    "singlePost": "posts/{0}",
+    "allUsers": "users",
+    "singleUser": "users/{0}"
+  }
+  
+}
